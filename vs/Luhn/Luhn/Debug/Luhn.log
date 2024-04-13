@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\backup_files\github\luhn algorithm\vs\luhn\luhn\source.cpp(13): warning C4018: <: несоответствие типов со знаком и без знака
+d:\backup_files\github\luhn algorithm\vs\luhn\luhn\source.cpp(33): warning C4018: <: несоответствие типов со знаком и без знака
+  Luhn.vcxproj -> D:\backup_files\github\Luhn algorithm\vs\Luhn\Debug\Luhn.exe
